@@ -1,0 +1,98 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1200px;
+  height: 850px;
+  margin: auto;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+
+.content{
+  padding: 100px;
+}
+
+.titolo{
+  color: lime;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+.logo, .textlogo{
+  width: 250px;
+  height: 110px;
+  margin: auto;
+}
+
+.barraverde{
+  width: 1000px;
+  height: 50px;
+  background-color: lime;
+}
+
+.pulsanti{
+  margin-left: 350px;
+  padding: 5px;
+}
+
+div, input{
+  margin-top: 10px;
+}
+
+main{
+  margin-top: 20px;
+  font-size: 25px;
+  color: white;
+}
+
+.monopattini{
+  font-size: 15px;
+  font-family: arial;
+}
+
+.nome{
+  font-size: 25px;
+}
+
+p, span{
+font-size: 16px;
+padding-bottom: 6px;
+padding-top: 6px;
+font-style: bold;
+}
+
+.carica1{
+  background-color: #FFC125;
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  margin-top: 1px;
+}
+
+.carica2{
+  background-color: #00FF00;
+  width: 600px;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  margin-top: 1px;
+}
+
+.carica3{
+  background-color: #DC143C;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 1px;
+}
